@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "lib": ["es6", "dom"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "baseUrl": "./src",
+    "outDir": "./js",
+    "target": "es5",
+    "typeRoots": [
+      "./node_modules/@types"
+    ]
+  }
+}
